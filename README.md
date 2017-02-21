@@ -32,8 +32,6 @@ When you are finished with the assignment, push your git repository to GitHub so
 The four plots and scripts are located in this repository
 
 ##To run each script
- 1) set the working directory to the appropriate directory on your local machine 
-    by modifying the "setwd" function below.
- 2) download and locate the "household_power_consumption.txt" data set into
-    your working directory.
- 3) Make sure that the "dplyr" package is installed
+ 1. set the working directory to the appropriate directory on your local machine by modifying the "setwd" function below.
+ 2. download and locate the "household_power_consumption.txt" data set into your working directory.
+ 3. Make sure that the "dplyr" package is installed
