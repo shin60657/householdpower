@@ -1,4 +1,4 @@
-## This will create Plot 4 for the Cousera Exploratory Data Analysis week 1 assignment.
+## This will create Plot 1 for the Cousera Exploratory Data Analysis week 1 assignment.
 ## To run this script:
 ##   1) set the working directory to the appropriate directory on your local machine 
 ##      by modifying the "setwd" function below.
